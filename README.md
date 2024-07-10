@@ -77,7 +77,7 @@ cd [repository-directory]</code></pre>
     </li>
     <li>
         <p><strong>Testing the API:</strong></p>
-        <p>Open your browser or Postman and navigate to <a href="http://127.0.0.1:5000">http://127.0.0.1:5000/</a>.</p>
+        <p>Open your browser or Postman and navigate to <a href="http://127.0.0.1:5000">http://127.0.0.1:3000/</a>.</p>
     </li>
 </ol>
 
